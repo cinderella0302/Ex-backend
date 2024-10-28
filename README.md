@@ -1,2 +1,2 @@
 # NFTBet_server
-server side code for NFTBet
+server side code for Exchange service
